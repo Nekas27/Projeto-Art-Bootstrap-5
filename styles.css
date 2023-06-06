@@ -53,7 +53,7 @@ a, i {
     margin-right: 15px;
 }
 
-/*Navbar*/
+/*NAVBAR*/
 
 #navbar{
     padding: 10px;
@@ -86,7 +86,7 @@ a, i {
     bottom: 25px;
 }
 
-/*Gallery*/
+/*GALLERY*/
 
 #img2{
     background-image: url('../img/g_2.jpg');
@@ -128,7 +128,7 @@ a, i {
     margin-bottom: 20px;
 }
 
-/*Footer*/
+/*FOOTER*/
 
 footer{
     border-top: 1px solid #CCC;
